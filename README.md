@@ -1,7 +1,4 @@
-# Squid Game Flutter - Multi-Game Collection
-
-A Flutter implementation of classic games from Squid Game. Test your reflexes and timing in these thrilling mobile games featuring the famous "Red Light Green Light" and "Jump Rope" challenges!
-
+# Squid Game Flutter 
 ## Screenshots
 
 <div align="center">
